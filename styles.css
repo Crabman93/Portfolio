@@ -1,3 +1,23 @@
+header{
+    color: #4A1DC1;
+    text-align: center;
+}
+
 body {
-    background-color: pink;
+    background-color: #00825B;
+}
+
+#flex{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#homeMain{
+    background-color: rgb(62, 3, 102);
+    color: rgb(179, 154, 17);
+}
+
+footer{
+    text-align: center;
 }
